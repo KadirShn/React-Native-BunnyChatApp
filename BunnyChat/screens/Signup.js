@@ -69,7 +69,6 @@ const onHandleSignup = () => {
         </TouchableOpacity>
       </View>
       </SafeAreaView>
-      <StatusBar barStyle="light-content" />
     </View>
   );
 }
